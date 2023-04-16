@@ -1,7 +1,7 @@
 # Textbook Exchange
 Description
 
-This is a web-based application for textbook exchange developed using Python and Django. The core features of the application include integration of class listing API, Google user accounts, and a messaging system. The project was originally forked from a private repository and modified to add new features and improve functionality.
+This is a web-based application for textbook exchange developed using Python and Django. The core features of the application include integration of class listing API, Google user accounts, and a messaging system. The project was originally forked from a private repository created specifically for the class
 
 Contributions
 
