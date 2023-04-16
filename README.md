@@ -9,7 +9,7 @@ As one of 5 members of the development team, I made 36 commits and contributed t
 
 How to Run
 
-To run the application, clone the repository on your local machine and then navigate to the virtual environment (venv). Then run the following command in the virtual environment:
+To run the application, clone the repository on your local machine and then navigate to the virtual environment (venv/Scripts/activate). Then run the following command in the virtual environment:
 
 python3 manage.py runserver
 
